@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # atlas_geo 
 ## Description
 Cette application mobile, développée avec **Flutter**, présente un **atlas géographique interactif**.  
