@@ -1,0 +1,77 @@
+import '../models/country.dart';
+
+List<Country> countries = [
+  Country(
+    nom: "Tunisie",
+    capitale: "Tunis",
+    population: "12 millions",
+    superficie: "163 610 km²",
+    langue: "Arabe",
+    drapeau: "assets/images/tunisia.png",
+  ),
+  Country(
+    nom: "France",
+    capitale: "Paris",
+    population: "67 millions",
+    superficie: "643 801 km²",
+    langue: "Français",
+    drapeau: "assets/images/france.png",
+  ),
+  
+Country(
+    nom: "Brésil",
+    capitale: "Brasília",
+    population: "215 millions",
+    superficie: "8 515 767 km²",
+    langue: "Portugais",
+    drapeau: "assets/images/bresil.png",
+  ),
+  Country(
+    nom: "Italie",
+    capitale: "Rome",
+    population: "59 millions",
+    superficie: "301 340 km²",
+    langue: "Italien",
+    drapeau: "assets/images/italie.png",
+  ),
+  Country(
+    nom: "Canada",
+    capitale: "Ottawa",
+    population: "39 millions",
+    superficie: "9 984 670 km²",
+    langue: "Anglais",
+    drapeau: "assets/images/canada.png",
+  ),
+  Country(
+    nom: "Australie",
+    capitale: "Canberra",
+    population: "26 millions",
+    superficie: "7 692 024 km²",
+    langue: "Anglais",
+    drapeau: "assets/images/australie.png",
+  ),
+  Country(
+    nom: "Allemagne",
+    capitale: "Berlin",
+    population: "84 millions",
+    superficie: "357 022 km²",
+    langue: "Allemand",
+    drapeau: "assets/images/allemagne.png",
+  ),
+  Country(
+    nom: "Espagne",
+    capitale: "Madrid",
+    population: "47 millions",
+    superficie: "505 990 km²",
+    langue: "Espagnol",
+    drapeau: "assets/images/espagne.png",
+  ),
+  Country(
+    nom: "Afrique du Sud",
+    capitale: "Pretoria",
+    population: "60 millions",
+    superficie: "1 219 090 km²",
+    langue: "Afrikaans",
+    drapeau: "assets/images/afrique_du_sud.png",
+  ),
+];
