@@ -15,29 +15,8 @@ Elle permet de visualiser une liste de pays, leurs drapeaux et d’accéder à l
   - Accueil
   - À propos
   - Quitter l’application
-## Structure du projet
 
-atlas_geo_sahar/
-│
-├─ lib/
-│ ├─ main.dart
-│ ├─ welcome_page.dart
-│ ├─ countries_page.dart
-│ ├─ country_detail_page.dart
-│ ├─ models/
-│ │ └─ country.dart
-│ └─ data/
-│ └─ countries_data.dart
-│
-├─ assets/
-│ └─ images/
-│ ├─ world.png
-│ ├─ tunisia.png
-│ └─ france.png
-│
-├─ pubspec.yaml
-└─ README.md
-=======
+
 # atlas_geo_sahar
 
 A new Flutter project.
